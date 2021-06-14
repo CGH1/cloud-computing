@@ -1,0 +1,1 @@
+基础环境搭建。安装VMWareWorkstation虚拟机，安装Linux系统，包括Controller和Compute节点。
