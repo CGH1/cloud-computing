@@ -1,1 +1,0 @@
-安装OpenStack云计算服务。配置网络，Yum源，环境变量，执行OpenStack各组件安装脚本。
